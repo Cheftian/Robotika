@@ -35,9 +35,9 @@ Pada pertemuan ketujuh, kami melakukan kontrol langsung robot BNU V2 via aplikas
 
 ---
 
-#Final Project
+# Final Project
 
-# Daftar Anggota Kelompok
+## Daftar Anggota Kelompok
 
 | No | Nama Lengkap               | NPM         |
 |----|----------------------------|-------------|
