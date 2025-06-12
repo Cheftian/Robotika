@@ -18,10 +18,6 @@ IoT adalah konsep jaringan perangkat fisik yang saling terhubung dan dapat berko
 
 ---
 
-Dokumentasi ini memberikan gambaran dasar mengenai tiga konsep utama yang saling berhubungan dalam pengembangan teknologi cerdas dan otomatisasi modern.
-
----
-
 ## Pertemuan 1  
 **Pengantar Mata Kuliah Robotik**  
 Pada pertemuan awal mata kuliah robotik, dilakukan sesi perkenalan seperti biasa. Kami berkenalan dengan dosen pengampu, Bapak Basuki Rahmat, lalu mulai mengenal gambaran umum tentang robotik. Penjelasan disampaikan terkait skema pembelajaran, penjelasan tugas UTS, dan juga rencana pengerjaan UAS selama mata kuliah ini berlangsung.
