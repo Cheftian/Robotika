@@ -39,5 +39,3 @@ Program ini ditujukan untuk mengendalikan sebuah motor DC menggunakan mikrokontr
 - Fungsi `ledcWrite()` digunakan untuk mengatur duty cycle PWM pada pin enable yang mengontrol power motor.
 
 ---
-
-Apabila Anda membutuhkan dokumentasi dalam bentuk file README.md yang siap pakai, saya dapat membuatkan dan melampirkannya juga. Apakah Anda ingin saya buatkan file README.md-nya?
