@@ -60,18 +60,41 @@ Pada pertemuan ketujuh, kami melakukan kontrol langsung robot BNU V2 via aplikas
 | 4  | Aqsa Prima Cahya           | 22081010059 |
 | 5  | Brahma Faiq Mahdewa        | 22081010080 |
 
-### Minggu 1  
-- Mengumpulkan dataset Waste Classification Data dari Kaggle [Dataset Link](https://www.kaggle.com/datasets/techsash/waste-classification-data)  
-- Membangun model CNN awal dengan menggabungkan beberapa jenis layer konvolusional dan lainnya.  
-- Melaksanakan pelatihan (training) model menggunakan dataset training.  
-- Melakukan evaluasi dengan dataset testing yang tersedia.  
-- Hasil evaluasi memperlihatkan akurasi rendah sekitar 0.5, sehingga perlu perbaikan.
 
-### Minggu 2  
-- Upaya meningkatkan hasil akurasi model untuk performa lebih baik.  
-- Melakukan pelatihan ulang pada model dengan dataset training.  
-- Melakukan pengujian performa model terbaru menggunakan dataset testing.  
-- Mendapatkan peningkatan signifikan dengan akurasi mencapai 0.83.
+# Pengerjaan Final Project
 
----
+# Pada Minggu 1 :
+- Mencari dataset Waste Classification Data di kaggle [Lihat dataset](https://www.kaggle.com/datasets/techsash/waste-classification-data).
+- Mulai membangun model CNN dari awal yakni dengan menggabungkan beberapa layer convolutional dengan beberapa layer yang lainnya.
+- Melakukan training terhadap dataset training yang telah ditemukan.
+- Melakukan evaluasi terhadap dataset testing yang telah ditemukan.
+- Mendapatkan hasil yang kurang memuaskan karena dari hasil evaluasi hanya mendapatkan accuracy 0.5.
 
+# Pada Minggu 2 :
+- Mencoba meningkatkan nilai accuracy model agar menjadi lebih baik.
+- Melakukan training model baru dengan dataset training.
+- Melakukan testing model baru dengan dataset testing.
+- Mendapatkan Hasil yang lebih baik dengan mendapatkan hasil accuracy pada tahap testing 0.83
+
+# Pada Minggu 3 :
+- Terus meningkatkan model klasifikasi sampah dengan akurasi 0.94 
+- Membuat model computer vision yang menggabungkan model sebelumnya dengan model YOLO V8
+- Membuat agar computer vision dapat terhubung dengan serial
+
+# Pada Minggu 4 :
+Uji coba program computer vision yang telah dibuat dengan robot BNU V2.
+
+![Dokumentasi uji coba](Foto-Bersama-Robotik.jpg)
+
+Hasil Uji Coba:
+Robot telah kami setting untuk dapat melakukan identifikasi sampah organik dan anorganik. Ketika robot mendapati sampah anorganik berada di depannya, maka robot akan berbelok ke arah kiri. Sebaliknya, ketika robot mendapati sampah organik berada di depannya, maka robot akan berbelok ke arah kanan.
+
+# Video Uji Coba Sampah Anogranik
+Robot akan berbelok ke arah kiri setelah mengidentifikasi benda yang berada di depannya merupakan sampah anorganik.
+
+![Deteksi Sampah Anorganik](Deteksi-Sampah-Anorganik.mp4)
+
+# Video Uji Coba Sampah Organik
+Robot akan berbelok ke arah kanan setelah mengidentifikasi benda yang berada di depannya merupakan sampah organik.
+
+![Deteksi Sampah Organik](Deteksi-Sampah-Organik.mp4)
